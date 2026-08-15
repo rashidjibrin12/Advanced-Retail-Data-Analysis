@@ -117,11 +117,3 @@ These extensions enhance the business value of the core notebook and are include
 
 This repository is provided under the MIT License — feel free to reuse the analysis, but please attribute the original author.
 
----
-
-If you'd like, I can also:
-- Create a requirements.txt from the packages used in the notebook (if you want, point me to the notebook or allow me to read it),
-- Convert key notebook sections into modular Python scripts,
-- Add a small examples/ folder with reproducible scripts for RFM, Apriori, and forecasting.
-
-Tell me which of those you'd like me to do next and I will add them to the repo.
