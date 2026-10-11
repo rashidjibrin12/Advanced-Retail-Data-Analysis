@@ -12,6 +12,16 @@ The project is designed to answer practical retail questions such as:
 - Which segments are most responsive to retention campaigns?
 - How should marketing spend be prioritized across customer groups?
 
+## Tools and Technologies
+- Python
+- Pandas for data wrangling and transformation
+- NumPy for numerical analysis
+- Matplotlib for visual storytelling
+- Seaborn for statistical visualization
+- Scikit-learn for clustering and segmentation
+- Jupyter Notebook for reproducible analysis
+- Kaggle dataset sourcing and notebook-based reporting
+
 ## Dataset and Business Context
 The analysis uses the Online Retail II dataset, which contains transaction-level records for online retail purchases, including invoice information, product descriptions, quantities, prices, customer IDs, and country data.
 
@@ -27,12 +37,12 @@ A key observation from the data is that the business is highly concentrated in t
 
 ## Data Cleaning and Preparation
 The notebook applies a structured data-cleaning workflow before modeling:
-- removes records with missing customer IDs
-- filters out cancelled or invalid transactions
-- removes negative or zero quantity and price entries
-- eliminates duplicate records
-- creates a total sales value feature for each transaction
-- converts invoice dates to datetime for time-based analysis
+- Removes records with missing customer IDs
+- Filters out cancelled or invalid transactions
+- Removes negative or zero quantity and price entries
+- Eliminates duplicate records
+- Creates a total sales value feature for each transaction
+- Converts invoice dates to datetime for time-based analysis
 
 This preprocessing step ensures the cluster and RFM analysis reflects valid customer behavior rather than transaction anomalies or return activity.
 
@@ -57,31 +67,20 @@ The analysis reveals several important findings for the retail business:
 
 ## Customer Segmentation Insights
 The clustering results identify several customer segments, including:
-- high-value, frequent buyers who drive revenue and repeat purchases
-- active but lower-value customers who may respond to cross-sell or loyalty programs
-- low-frequency or inactive customers who are at higher churn risk
-- occasional buyers with limited revenue contribution but potential for reactivation
+- High-value, frequent buyers who drive revenue and repeat purchases
+- Active but lower-value customers who may respond to cross-sell or loyalty programs
+- Low-frequency or inactive customers who are at higher churn risk
+- Occasional buyers with limited revenue contribution but potential for reactivation
 
 These segment patterns help move the analysis from descriptive reporting to actionable customer strategy.
 
 ## Business Impact
-This project demonstrates how transactional data can be converted into customer-level intelligence that supports better decision-making across marketing, CRM, and revenue planning.
-
 The findings suggest that the business should:
-- prioritize retention and loyalty strategies for its highest-value customers
-- design re-engagement campaigns for inactive or low-frequency accounts
-- focus acquisition and promotional spend where customer value is strongest
-- use segmentation to personalize offers instead of applying one-size-fits-all promotions
+- Prioritize retention and loyalty strategies for its highest-value customers
+- Design re-engagement campaigns for inactive or low-frequency accounts
+- Focus acquisition and promotional spend where customer value is strongest
+- Use segmentation to personalize offers instead of applying one-size-fits-all promotions
 
-## Tools and Technologies
-- Python
-- pandas for data wrangling and transformation
-- NumPy for numerical analysis
-- Matplotlib for visual storytelling
-- Seaborn for statistical visualization
-- scikit-learn for clustering and segmentation
-- Jupyter Notebook for reproducible analysis
-- Kaggle dataset sourcing and notebook-based reporting
 
-## Portfolio Summary
-This project showcases the ability to work with real-world transactional data, clean and structure retail records, apply customer analytics methods, and translate model outputs into business-ready recommendations. It reflects a practical, decision-oriented approach to data analysis where insights are tied directly to retention, customer value, and revenue strategy.
+## About Me
+Aspiring Data Analyst | SQL & Power BI | AI tools and ML
