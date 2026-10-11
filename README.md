@@ -60,6 +60,9 @@ The analysis reveals several important findings for the retail business:
 
 - Revenue is not evenly distributed across customers: a relatively small group of customers contributes a large share of total sales.
 - Recency, frequency, and monetary value are strong indicators of customer engagement and profitability.
+
+  <img width="657" height="449" alt="{38FCBBEB-BAAE-464C-B6EF-2DABE5FDB1C3}" src="https://github.com/user-attachments/assets/2d7bf44b-a759-4e15-b35f-98d79c4e02a4" />
+
 - Customers with recent purchases and repeated buying behavior are the most valuable segments for retention and upselling.
 - Inactive or low-frequency customers represent the clearest opportunity for reactivation campaigns.
 - The dataset shows a strong UK market concentration, which suggests that marketing and retention strategies may be most effective when tailored to the dominant domestic segment.
