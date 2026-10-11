@@ -68,9 +68,14 @@ The analysis reveals several important findings for the retail business:
 - The dataset shows a strong UK market concentration, which suggests that marketing and retention strategies may be most effective when tailored to the dominant domestic segment.
 - K-means clustering identifies multiple customer archetypes with distinct spending and engagement profiles, supporting more targeted customer strategy.
 
+
+
 <img width="657" height="449" alt="{38FCBBEB-BAAE-464C-B6EF-2DABE5FDB1C3}" src="https://github.com/user-attachments/assets/2d7bf44b-a759-4e15-b35f-98d79c4e02a4" />
 
 <img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/273e9fe7-5448-4597-8f7c-528c979a3058" />
+
+<img width="597" height="455" alt="image" src="https://github.com/user-attachments/assets/56e38d4d-8716-4027-b7fa-382597a8510f" />
+
 
 
 ## Customer Segmentation Insights
