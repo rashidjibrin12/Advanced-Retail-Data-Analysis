@@ -22,6 +22,17 @@ The project is designed to answer practical retail questions such as:
 - Jupyter Notebook for reproducible analysis
 - Kaggle dataset sourcing and notebook-based reporting
 
+## Skills Demonstrated
+- Data cleaning and preprocessing of transactional retail data
+- Exploratory Data Analysis (EDA) on customer and sales behavior
+- Feature engineering for revenue, recency, frequency, and monetary value
+- RFM (Recency, Frequency, Monetary) analysis for customer value assessment
+- Customer segmentation using K-means clustering
+- Data normalization and scaling with StandardScaler
+- Statistical interpretation of business-critical customer segments
+- Data visualization for insight communication and business storytelling
+- Business intelligence thinking for retention, churn, and marketing prioritization
+
 ## Dataset and Business Context
 The analysis uses the Online Retail II dataset, which contains transaction-level records for online retail purchases, including invoice information, product descriptions, quantities, prices, customer identifiers, and country information.
 
