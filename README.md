@@ -84,4 +84,5 @@ The findings suggest that the business should:
 
 ## About Me
 **Abdulrashid Jibrin**
+
 Aspiring Data Analyst | SQL & Power BI | AI tools and ML
