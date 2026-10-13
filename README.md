@@ -1,4 +1,4 @@
-# Advanced Retail Data Analysis
+# Retail Customer Data Analysis
 
 ## Project Overview
 This project analyzes the Online Retail II dataset to understand customer purchasing behavior, identify high-value segments, and assess opportunities for retention and revenue growth. The analysis goes beyond descriptive sales reporting by focusing on customer value, retention risk, and business segmentation.
