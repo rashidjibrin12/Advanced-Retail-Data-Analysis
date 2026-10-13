@@ -86,7 +86,8 @@ The analysis reveals several important findings for the retail business:
 
 <br/><br/>
 
-<img width="700" height="500" alt="RFM Analysis Visualization" src="https://github.com/user-attachments/assets/273e9fe7-5448-4597-8f7c-528c979a3058" />
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/733d794d-efb4-4d3e-938e-d002d266505f" />
+
 
 <br/><br/>
 
